@@ -1,16 +1,41 @@
 ---
-label: Inside Folder
+label: Folder Child
 hide_body: false
 fields:
 - type: text
   name: layout
   label: layout
+  default: default
 - type: text
   name: title
   label: title
 - type: text
   name: parent
   label: parent
+  description: Parent Folder Name
 - type: number
   name: nav_order
   label: nav_order
+- name: description
+  type: textarea
+  default: |-
+    \# Typography
+
+    {: .no_toc }
+
+    \## Table of contents
+
+    {: .no_toc .text-delta }
+
+    1\. TOC
+
+    {:toc}
+
+    \---
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
+  description: Copy/Delete TOC Text and Leave Blank
