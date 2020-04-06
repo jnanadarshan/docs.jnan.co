@@ -4,6 +4,32 @@ title: Configuration
 nav_order: 2
 ---
 
+```yaml
+# Configuration
+{: .no_toc }
+
+
+Something Large that will appear in Font Size 6 and Font Width 300
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+___
+
+## Bullet 1
+Bullet Text
+### Sub-Bullet 1
+### Sub Bullet 2
+
+___
+
+## Bullet 2
+```
+
 # Configuration
 {: .no_toc }
 
