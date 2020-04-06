@@ -1,5 +1,5 @@
 ---
-label: Default Page
+label: Index Modeled
 hide_body: false
 fields:
 - type: text
@@ -15,6 +15,7 @@ fields:
 - type: textarea
   name: description
   label: description
+  description: Required Double Quotes - " "
 - type: text
   name: permalink
   label: permalink
