@@ -6,19 +6,16 @@ parent: UI Components
 nav_order: 7
 
 ---
-\# Typography
-
+# Typography
 {: .no_toc }
 
-\## Table of contents
-
+## Table of contents
 {: .no_toc .text-delta }
 
-1\. TOC
-
+1. TOC
 {:toc}
 
-\---
+---
 
 ## Test Doc
 
