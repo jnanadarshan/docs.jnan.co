@@ -5,11 +5,10 @@ nav_order: 2
 ---
 
 ```yaml
-# Configuration
+# Page Heading/Article Title Here <Raplace>
 {: .no_toc }
 
-
-Something Large that will appear in Font Size 6 and Font Width 300
+Something Large that will appear in Font Size 6 and Font Width 300 <Optional - Delete/Replace>
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,13 +18,13 @@ Something Large that will appear in Font Size 6 and Font Width 300
 {:toc}
 
 ___
-
+<Actual Content Starts Here - Delete This>
 ## Bullet 1
 Bullet Text
 ### Sub-Bullet 1
 ### Sub Bullet 2
 
-___
+___ < Used to creat Horizontal Rule between Bullets>
 
 ## Bullet 2
 ```
